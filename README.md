@@ -14,8 +14,8 @@ Practice exercises for the **Borders:None** developer course.
 Clone the repository and open the exercise folders in your editor:
 
 ```bash
-git clone https://github.com/tyhrr/bordersnonePractice.git
-cd bordersnonePractice
+git clone https://github.com/tyhrr/bordersnone-practice.git
+cd bordersnone-practice
 ```
 
 ## License
